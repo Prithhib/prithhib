@@ -13,7 +13,6 @@
 - 💻 Passionate about coding and problem solving.
 - 🚀 Interested in Software Development, Data Structures & Algorithms, and Data Analysis.
 - 🌱 Always learning new technologies and improving my skills.
-- 🤝 Open to collaborating on exciting projects.
 - ⚡ Fun fact: I enjoy turning ideas into code.
 ## 🌐 Socials
 
@@ -62,14 +61,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=PrithhibNandi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </p>
 
-## 🔝 Top Contributed Repositories
+<!--## 🔝 Top Contributed Repositories--!>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=PrithhibNandi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
+</p> -->
 
----
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PrithhibNandi&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+</p> 
